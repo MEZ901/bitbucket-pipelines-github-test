@@ -4,4 +4,4 @@ This repository is set up for testing Bitbucket Pipelines on GitHub. Experiment 
 ## features
 - [x] Repository Mirror from GitHub to Bitbucket
 - [x] GitHub Actions
-- [ ] Bitbucket Pipelines
+- [x] Bitbucket Pipelines
